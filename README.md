@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on my Music App
 - 🤔 I’m looking for help with UI and ML
 - 💬 Ask me to participate in hackathons
-- 😄 Pronouns: He/Him
 - 📫 How to reach me:
 
 
