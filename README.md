@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on my Music App
 - 🤔 I’m looking for help with UI and ML
 - 💬 Ask me to participate in hackathons
-- 📫 How to reach me: @shivanshverma388@gmail.com
-- 😄 Pronouns: He/Him
+- - 😄 Pronouns: He/Him
+- 📫 How to reach me:
 
 
 ## 🌐 Socials:
