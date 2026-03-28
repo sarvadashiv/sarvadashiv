@@ -16,12 +16,6 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/sarvadashiv) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013068872379) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarvdashiv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-verma-57b3a52b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivans65163461) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshverma388@gmail.com) 
 
-<hr style="border: 1px solid #61DAFB; box-shadow: 0 0 5px #61DAFB;" />
-
-## Log in
-<img src="https://github.com/sarvadashiv/sarvadashiv/blob/main/assets/terminal.gif?raw=true" alt="Terminal Animation" height="300" style="width: 100%; max-width: 100%; height: auto; display: block;"/>
-
-<hr style="border: 1px solid #61DAFB; box-shadow: 0 0 5px #61DAFB;" />
 
 
 # 💻 Tech Stack:
